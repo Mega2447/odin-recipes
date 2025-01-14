@@ -1,0 +1,1 @@
+This is an practice example of a website following The Odin Project's curriculum.
